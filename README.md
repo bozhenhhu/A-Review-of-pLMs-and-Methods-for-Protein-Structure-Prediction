@@ -5,6 +5,6 @@ We recently released a review of pLMs and PSP models, but the field changes fast
 
 <a name="reviews"></a>
 ## Reviews
-**A Review of Protein Structure Prediction using Deep Learning.**[[Paper]](https://www.bio-conferences.org/articles/bioconf/abs/2021/13/bioconf_biomic2021_04003/bioconf_biomic2021_04003.html) 
-Meredita Susanty, Tati Erawati Rajab and Rukman Hertadi.
-*BIO Web of Conferences 41, 04003 (2021)*
+**A Review of Protein Structure Prediction using Deep Learning.**[[Paper]](https://www.bio-conferences.org/articles/bioconf/abs/2021/13/bioconf_biomic2021_04003/bioconf_biomic2021_04003.html)   
+Meredita Susanty, Tati Erawati Rajab and Rukman Hertadi.  
+*BIO Web of Conferences 41, 04003 (2021)*  
