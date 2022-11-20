@@ -57,7 +57,7 @@ Kevin K. Yang, Zachary Wu & Frances H. Arnold
 Minghao Xu, Zuobai Zhang, Jiarui Lu, Zhaocheng Zhu, Yangtian Zhang, Chang Ma, Runcheng Liu and Jian Tang    
 *arXiv Sep 2022*  
 
-**Learning functional properties of proteins with language models**[[paper]](https://www.nature.com/articles/s42256-022-00457-9)[[code]](https://github.com/ kansil/PROBE)  
+**Learning functional properties of proteins with language models**[[paper]](https://www.nature.com/articles/s42256-022-00457-9)[[code]](https://github.com/kansil/PROBE)  
 Serbulent Unsal, Heval Atas, Muammer Albayrak, Kemal Turhan, Aybar C. Acar & Tunca Doğan    
 *Nature Machine Intelligence (2022)*  
 
