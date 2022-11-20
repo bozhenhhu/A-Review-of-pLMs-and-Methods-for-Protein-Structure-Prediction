@@ -52,8 +52,8 @@ Kevin K. Yang, Zachary Wu & Frances H. Arnold
 *Nature Methods (2019)*
 
 <a name="Benchmark"></a>
-##Benchmark
-**PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding**[[paper]](https://arxiv.org/abs/2206.02096)[[code]]  
+## Benchmark
+**PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding**[[paper]](https://arxiv.org/abs/2206.02096)  
 Minghao Xu, Zuobai Zhang, Jiarui Lu, Zhaocheng Zhu, Yangtian Zhang, Chang Ma, Runcheng Liu and Jian Tang    
 *arXiv Sep 2022*  
 
