@@ -59,17 +59,17 @@ Tristan Bepler and Bonnie Berger
 Fabrizio Pucci, Martin Schwersensky, Marianne Rooman.    
 *Preprint, Nov 2021.*    
 
-**Representation learning applications in biological sequence analysis.**[paper](https://doi.org/10.1016/j.csbj.2021.05.039)
-Hitoshi Iuchi, Taro Matsutani, Keisuke Yamada, Natsuki Iwano, Shunsuke Sumi, Shion Hosoda, Shitao Zhao, Tsukasa Fukunaga, Michiaki Hamada.  
-*Computational and Structural Biotechnology Journal, May 2021.*  
+**Representation learning applications in biological sequence analysis.**[paper](https://doi.org/10.1016/j.csbj.2021.05.039)  
+Hitoshi Iuchi, Taro Matsutani, Keisuke Yamada, Natsuki Iwano, Shunsuke Sumi, Shion Hosoda, Shitao Zhao, Tsukasa Fukunaga, Michiaki Hamada.    
+*Computational and Structural Biotechnology Journal, May 2021.*    
 
-**Protein sequence-to-structure learning: Is this the end(-to-end revolution)?.** [paper](https://arxiv.org/abs/2105.07407v1) 
-Elodie Laine, Stephan Eismann, Arne Elofsson, Sergei Grudinin.  
-*Preprint, May 2021.*  
+**Protein sequence-to-structure learning: Is this the end(-to-end revolution)?.** [paper](https://arxiv.org/abs/2105.07407v1)   
+Elodie Laine, Stephan Eismann, Arne Elofsson, Sergei Grudinin.    
+*Preprint, May 2021.*    
 
-**Deep learning methods in protein structure prediction.**[[paper]](https://www.sciencedirect.com/science/article/pii/S2001037019304441)  
-Mirko Torrisi, Gianluca Pollastri and Quan Le.   
-*Computational and structural biotechnology journal (2020)*
+**Deep learning methods in protein structure prediction.**[[paper]](https://www.sciencedirect.com/science/article/pii/S2001037019304441)    
+Mirko Torrisi, Gianluca Pollastri and Quan Le.     
+*Computational and structural biotechnology journal (2020)*  
 
 **Learning from protein fitness landscapes: a review of mutability, epistasis, and evolution**[[Paper]](https://www.sciencedirect.com/science/article/pii/S2452310019300022)  
 Emily C. Hartman and Danielle Tullman-Ercek.  
