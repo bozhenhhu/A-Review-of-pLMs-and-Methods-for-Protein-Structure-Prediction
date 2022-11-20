@@ -6,7 +6,7 @@ We recently released a review of pLMs and PSP models, but the field changes fast
 <a name="reviews"></a>
 ## Reviews
 **The language of proteins: NLP, machine learning & protein sequences
-.**[[Paper]]([https://www.bio-conferences.org/articles/bioconf/abs/2021/13/bioconf_biomic2021_04003/bioconf_biomic2021_04003.html](https://www.sciencedirect.com/science/article/pii/S2001037021000945)     
+.**[[Paper]](https://www.bio-conferences.org/articles/bioconf/abs/2021/13/bioconf_biomic2021_04003/bioconf_biomic2021_04003.html](https://www.sciencedirect.com/science/article/pii/S2001037021000945)     
 Dan Ofer, Nadav Brandes and Michal Linial    
 *Computational and structural biotechnology journal (2021)*    
 
