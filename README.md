@@ -43,9 +43,9 @@ Dan Ofer, Nadav Brandes and Michal Linial
 Meredita Susanty, Tati Erawati Rajab and Rukman Hertadi.  
 *BIO Web of Conferences 41, 04003 (2021)*  
 
-**Machine learning in protein structure prediction**[[paper]](https://www.sciencedirect.com/science/article/pii/S1367593121000508)  
-Author links open overlay panelMohammedAlQuraishi
-*Current Opinion in Chemical Biology (2021)*
+**Machine learning in protein structure prediction**[[paper]](https://www.sciencedirect.com/science/article/pii/S1367593121000508)    
+Author links open overlay panelMohammedAlQuraishi  
+*Current Opinion in Chemical Biology (2021)*  
 
 **Pre-trained Language Models in Biomedical Domain: A Systematic Survey**[[paper]](https://arxiv.org/abs/2110.05006)  
 Benyou Wang, Qianqian Xie, Jiahuan Pei, Prayag Tiwari, Zhao Li and Jie Fu      
@@ -59,11 +59,11 @@ Tristan Bepler and Bonnie Berger
 Fabrizio Pucci, Martin Schwersensky, Marianne Rooman.    
 *Preprint, Nov 2021.*    
 
-**Representation learning applications in biological sequence analysis.**[paper](https://doi.org/10.1016/j.csbj.2021.05.039)  
+**Representation learning applications in biological sequence analysis.**[[paper]](https://doi.org/10.1016/j.csbj.2021.05.039)  
 Hitoshi Iuchi, Taro Matsutani, Keisuke Yamada, Natsuki Iwano, Shunsuke Sumi, Shion Hosoda, Shitao Zhao, Tsukasa Fukunaga, Michiaki Hamada.    
 *Computational and Structural Biotechnology Journal, May 2021.*    
 
-**Protein sequence-to-structure learning: Is this the end(-to-end revolution)?.** [paper](https://arxiv.org/abs/2105.07407v1)   
+**Protein sequence-to-structure learning: Is this the end(-to-end revolution)?.** [[paper]](https://arxiv.org/abs/2105.07407v1)   
 Elodie Laine, Stephan Eismann, Arne Elofsson, Sergei Grudinin.    
 *Preprint, May 2021.*    
 
