@@ -5,6 +5,12 @@ We recently released a review of pLMs and PSP models, but the field changes fast
 
 <a name="reviews"></a>
 ## Reviews
+**Learning from protein fitness landscapes: a review of mutability, epistasis, and evolution**[[Paper]](https://www.sciencedirect.com/science/article/pii/S2452310019300022)  
+Emily C. Hartman and Danielle Tullman-Ercek.  
+*Current Opinion in Systems Biology (2019)*
+
+
+
 **The language of proteins: NLP, machine learning & protein sequences
 .**[[Paper]](https://www.sciencedirect.com/science/article/pii/S2001037021000945)     
 Dan Ofer, Nadav Brandes and Michal Linial    
