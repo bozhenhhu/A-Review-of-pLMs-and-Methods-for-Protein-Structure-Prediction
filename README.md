@@ -20,14 +20,14 @@ Mai Ha Vu, Rahmad Akbar, Philippe A Robert, Bartlomiej Swiatczak, Geir Kjetil Sa
 Vrushali Bongirwar and A.S. Mokhade    
 *Progress in Biophysics & Molecular Biology (2022)*  
 
-**The road to fully programmable protein catalysis.** [[paper]](https://doi.org/10.1038/s41586-022-04456-z)
-Sarah L. Lovelock, Rebecca Crawshaw, Sophie Basler, Colin Levy, David Baker, Donald Hilvert, Anthony P. Green.  
+**The road to fully programmable protein catalysis.** [[paper]](https://doi.org/10.1038/s41586-022-04456-z)  
+Sarah L. Lovelock, Rebecca Crawshaw, Sophie Basler, Colin Levy, David Baker, Donald Hilvert, Anthony P. Green.    
 *Nature, June 2022.*  
 
 
-**Applications of artificial intelligence to enzyme and pathway design for metabolic engineering.** [[paper]](https://doi.org/10.1016/j.copbio.2021.07.024) 
-Woo Dae Jang, Gi Bae Kim, Yeji Kim, Sang Yup Lee.  
-*Current Opinion in Biotechnology, February 2022.*  
+**Applications of artificial intelligence to enzyme and pathway design for metabolic engineering.** [[paper]](https://doi.org/10.1016/j.copbio.2021.07.024)   
+Woo Dae Jang, Gi Bae Kim, Yeji Kim, Sang Yup Lee.    
+*Current Opinion in Biotechnology, February 2022.*    
 
 **Adaptive machine learning for protein engineering.**  
 Brian L. Hie, Kevin K. Yang.  
