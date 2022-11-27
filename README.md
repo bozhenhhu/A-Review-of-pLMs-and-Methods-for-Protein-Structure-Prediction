@@ -115,7 +115,7 @@ Jaspreet Singh, Kuldip K. Paliwal, Jaswinder Singh and Yaoqi Zhou.
 Nicholas Bhattacharya, Neil Thomas, Roshan Rao, Justas Daupras, Peter K. Koo, David Baker, Yun S. Song and Sergey Ovchinnikov.   
 *bioRxiv (2021)*  
 
-**SPOT-Contact-Single: Improving Single-Sequence-Based Prediction of Protein Contact Map using a Transformer Language Model**[[paper]](https://www.biorxiv.org/content/10.1101/2021.06.19.449089v1)[[code]](https://github.com/ jas-preet/SPOT-Contact-Single)  
+**SPOT-Contact-Single: Improving Single-Sequence-Based Prediction of Protein Contact Map using a Transformer Language Model**[[paper]](https://www.biorxiv.org/content/10.1101/2021.06.19.449089v1)[[code]](https://github.com/jas-preet/SPOT-Contact-Single)  
 Jaspreet Singh, Thomas Litfin, Jaswinder Singh, Kuldip K. Paliwal and Yaoqi Zhou.   
 *bioRxiv (2021)*
 
@@ -251,9 +251,9 @@ Rhys Heffernan, Kuldip K. Paliwal, James Lyons, Abdollah Dehzangi, Alok Sharma, 
 Søren Kaae Sønderby and Ole Winther.   
 *arXiv: Quantitative Methods (2014)*  
 
-**SSpro/ACCpro 5: almost perfect prediction of protein secondary structure and relative solvent accessibility using profiles, machine learning and structural similarity**[[paper]](https://pubmed.ncbi.nlm.nih.gov/24860169/)[[server]](http://scratch.proteomics.ics.uci.edu/)
-Christophe Magnan and Pierre Baldi.   
-*Bioinformatics (2014)*  
+**SSpro/ACCpro 5: almost perfect prediction of protein secondary structure and relative solvent accessibility using profiles, machine learning and structural similarity**[[paper]](https://pubmed.ncbi.nlm.nih.gov/24860169/)[[server]](http://scratch.proteomics.ics.uci.edu/)  
+Christophe Magnan and Pierre Baldi.     
+*Bioinformatics (2014)*    
 
 **Deep Supervised and Convolutional Generative Stochastic Network for Protein Secondary Structure Prediction**[[paper]](https://dl.acm.org/doi/abs/10.5555/3044805.3044890)  
 Jian Zhou and Olga G. Troyanskaya.   
