@@ -106,10 +106,10 @@ Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, P
 ## PSP methods     
 
 <a name="Structural"></a>    
-###Structural Features Prediction    
-**Protein secondary structure prediction with a neural network.**[[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.86.1.152)
-L H Holley and Martin Karplus. 
-*Proceedings of the National Academy of Sciences of the United States of America (1989)*
+### Structural Features Prediction      
+**Protein secondary structure prediction with a neural network.**[[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.86.1.152)  
+L H Holley and Martin Karplus.   
+*Proceedings of the National Academy of Sciences of the United States of America (1989)*  
 
 
 <a name="Traditional"></a>  
