@@ -418,7 +418,7 @@ Ruidong Wu, Fan Ding, Rui Wang, Rui Shen, Xiwen Zhang, Shitong Luo, Chenpeng Su,
 Xiaomin Fang, Fan Wang, Lihang Liu, Jingzhou He, Dayong Lin, Yingfei Xiang, Xiaonan Zhang, Hua Wu, Hui Li and Le Song.   
 *arxiv (2022).*  
 
-**Single-sequence protein structure prediction using supervised transformer protein language models**[[paper]](https://www.biorxiv.org/content/10.1101/2022.01.15.476476v1)
+**Single-sequence protein structure prediction using supervised transformer protein language models**[[paper]](https://www.biorxiv.org/content/10.1101/2022.01.15.476476v1)  
 Wenkai Wang, Zhenling Peng and Jianyi Yang.   
 *bioxiv (2022).*  
 
