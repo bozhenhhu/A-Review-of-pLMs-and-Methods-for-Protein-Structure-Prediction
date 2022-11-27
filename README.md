@@ -1,8 +1,17 @@
 # List of papers about protein structure prediction (PSP) and proterin representation learning methods
-We recently released a review about PSP models: past, current, and future, but the field changes fastly and there are so many new papers that needed to be recorded and categorized. Inspired by the previous work ([Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins)), we build this repository to list related papers of pLMs and PSP methods.
+We recently released a review about PSP models: past, current, and future, but the field changes fastly and there are so many new papers that needed to be recorded and categorized. Inspired by the previous work ([Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins)), we build this repository to list related papers of pLMs and PSP methods.   
+
+## Notes  
+- Structural features include 1D features (SS, SA, torsion angles, contact density, etc.) and 2D features (contact map and distance map)
+ 
 ## Contents
 - [Reviews](#reviews)
 - [Benchmarks](#Benchmark)
+- [PSP Methods](#PSP)
+  + [Structural Features Prediction](#Structural)
+  + [Traditional Methods](#Traditional)
+  
+
 - [Folding tools](#tool)
 
 
@@ -92,6 +101,21 @@ Serbulent Unsal, Heval Atas, Muammer Albayrak, Kemal Turhan, Aybar C. Acar & Tun
 **Evaluating Protein Transfer Learning with TAPE.** [[paper]](https://arxiv.org/abs/1906.08230)  
 Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, Pieter Abbeel, Yun S. Song.   
 *Preprint, June 2019.*   
+
+<a name="PSP"></a>  
+## PSP methods     
+
+<a name="Structural"></a>    
+###Structural Features Prediction    
+**Protein secondary structure prediction with a neural network.**[[paper]](https://www.pnas.org/doi/abs/10.1073/pnas.86.1.152)
+L H Holley and Martin Karplus. 
+*Proceedings of the National Academy of Sciences of the United States of America (1989)*
+
+
+<a name="Traditional"></a>  
+### Traditional methods  
+
+
 
 <a name="tool"></a>
 ## Folding tools
