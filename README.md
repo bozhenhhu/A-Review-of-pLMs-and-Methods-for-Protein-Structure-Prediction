@@ -12,6 +12,8 @@ We recently released a review about PSP models: past, current, and future, but t
   + [Traditional Methods](#Traditional)
   + [Deep learning Methods](#deep)
   + [Single Sequence Sturcture Prediction](#Single)
+  + [Antibody](#antibody)
+  + [Complex](#complex)
   
 
 - [Folding tools](#tool)
@@ -403,6 +405,52 @@ Mohammed AlQuraishi.
 
 <a name="Single"></a>
 ### Single Sequence Sturcture Prediction
+
+**Language models of protein sequences at the scale of evolution enable accurate structure prediction**[[paper]](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v1)[[code]](https://github.com/facebookresearch/esm)    
+Allan dos Santos Costa, Zeming Lin, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Maryam Fazel-Zarandi, Tom Sercu, Sal Candido and Alexander Rives.   
+*biorxiv (2022).*  
+
+**High-resolution de novo structure prediction from primary sequence**[[paper]](https://www.biorxiv.org/content/10.1101/2022.07.21.500999v1)[[code]](https://github.com/HeliXonProtein/OmegaFold)  
+Ruidong Wu, Fan Ding, Rui Wang, Rui Shen, Xiwen Zhang, Shitong Luo, Chenpeng Su, Zuofan Wu, Qi Xie, Bonnie Berger, Jianzhu Ma and Jian Peng.   
+*biorxiv (2022).*  
+
+**HelixFold-Single: MSA-free Protein Structure Prediction by Using Protein Language Model as an Alternative**[[paper]](https://arxiv.org/abs/2207.13921)[[code]](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold-single)    
+Xiaomin Fang, Fan Wang, Lihang Liu, Jingzhou He, Dayong Lin, Yingfei Xiang, Xiaonan Zhang, Hua Wu, Hui Li and Le Song.   
+*arxiv (2022).*  
+
+**Single-sequence protein structure prediction using supervised transformer protein language models**[[paper]](https://www.biorxiv.org/content/10.1101/2022.01.15.476476v1)
+Wenkai Wang, Zhenling Peng and Jianyi Yang.   
+*bioxiv (2022).*  
+
+
+<a name="antibody"></a>
+### Antibody
+**EquiFold: Protein Structure Prediction with a Novel Coarse-Grained Structure Representation**[[paper]](https://www.biorxiv.org/content/10.1101/2022.10.07.511322v1)   
+Jae Hyeon Lee, Payman Yadollahpour, Andrew Watkins, Nathan C Frey, Andrew Leaver-Fay, Stephen Ra, Kyunghyun Cho, Vladimir Gligorijevic, Aviv Regev, Richard Bonneau, Prescient Design and Genentech.   
+*bioxiv (2022).*  
+
+**Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies**[[paper]](https://www.biorxiv.org/content/10.1101/2022.04.20.488972v1)[[code]](https://github.com/Graylab/IgFold)  
+Jeffrey A. Ruffolo and Jeffrey J. Gray.   
+*Biophysical Journal (2022)*  
+
+
+<a name="complex"></a>
+### Complex
+**Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search.**[[paper]](https://www.nature.com/articles/s41467-022-33729-4)  
+Arne Elofsson, Patrick Bryant, Gabriele Pozzati, Wensi Zhu, Aditi Shenoy and Petras Kundrotas.   
+*Nature Communications  (2022)*    
+
+**Improved prediction of protein-protein interactions using AlphaFold2 and extended multiple-sequence alignments**[[paper]](https://www.nature.com/articles/s41467-022-28865-w)  
+Patrick Bryant, Gabriele Pozzati and Arne Elofsson.   
+*Nature Communications  (2022) *  
+
+**Improve the Protein Complex Prediction with Protein Language Models**[[paper]](https://www.biorxiv.org/content/10.1101/2022.09.15.508065v1)  
+Bo Chen, Ziwei Xie, Jinbo Xu, Jiezhong Qiu, Zhaofeng Ye and Jie Tang.   
+*bioxiv (2022).*  
+
+**Protein complex prediction with AlphaFold-Multimer**[[paper]](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2)[[code]](https://github.com/deepmind/alphafold)  
+Andrew M. Cowie, Richard Evans, Michael J. O'Neill, Alexander Pritzel, Natasha Antropova, Andrew W. Senior, Tim Green, Augustin Žídek, Russell Bates, Sam Blackwell, Jason Yim, Olaf Ronneberger, Sebastian Bodenstein, Michal Zielinski, Alex Bridgland, Anna Potapenko, Andrew Cowie, Kathryn Tunyasuvunakool, R. D. Jain, Ellen Clancy, Pushmeet Kohli, John M. Jumper and Demis Hassabis.   
+*bioRxiv (2021)* 
 
 
 <a name="tool"></a>
