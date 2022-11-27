@@ -10,6 +10,7 @@ We recently released a review about PSP models: past, current, and future, but t
 - [PSP Methods](#PSP)
   + [Structural Features Prediction](#Structural)
   + [Traditional Methods](#Traditional)
+  + [Deep learning Methods](#deep)
   
 
 - [Folding tools](#tool)
@@ -272,14 +273,80 @@ Burkhard Rost and Chris Sander
 *Proceedings of the National Academy of Sciences of the United States of America (1993)*    
       
 
-   
-
-
-
-
-
 <a name="Traditional"></a>  
 ### Traditional methods  
+**Two-Stage Distance Feature-based Optimization Algorithm for De novo Protein Structure Prediction**[[paper]](https://ieeexplore.ieee.org/document/8718251)  
+Gui-Jun Zhang, Wang Xiaoqi, Ma Laifa, Wang Liujing, Jun Hu and Xiao-Gen Zhou.   
+*IEEE/ACM Transactions on Computational Biology and Bioinformatics (2020)*  
+
+**Secondary Structure and Contact Guided Differential Evolution for Protein Structure Prediction**[[paper]](https://pubmed.ncbi.nlm.nih.gov/30295627/)  
+Gui-Jun Zhang, Ma Laifa, Wang Xiaoqi and Xiao-Gen Zhou.     
+*IEEE/ACM Transactions on Computational Biology and Bioinformatics (2020)*  
+
+**Balancing exploration and exploitation in population-based sampling improves fragment-based de novo protein structure prediction.**[[paper]](https://pubmed.ncbi.nlm.nih.gov/28066917/)    
+David Simoncini, Thomas Schiex and Kam Y. J. Zhang.     
+*Proteins (2017)*   
+
+**Improved de novo structure prediction in CASP11 by incorporating coevolution information into Rosetta**[[paper]](https://pubmed.ncbi.nlm.nih.gov/26677056/)    
+Y C Liu, Sergey Ovchinnikov, David E. Kim, Ray Yu-Ruei Wang, Frank DiMaio and David Baker.   
+*Proteins (2016)*    
+
+**UniCon3D: de novo protein structure prediction using united-residue conformational search via stepwise, probabilistic sampling.**[[paper]](https://academic.oup.com/bioinformatics/article/32/18/2791/1743666?login=false)  
+Debswapna Bhattacharya, Renzhi Cao and Jianlin Cheng.   
+*Bioinformatics (2016)*  
+
+**RBO Aleph: leveraging novel information sources for protein structure prediction**[[paper]](https://pubmed.ncbi.nlm.nih.gov/25897112/)  
+Mahmoud Mabrouk, Ines Putz, Tim Werner, Michael Schneider, Moritz Neeb, Philipp Bartels and Oliver Brock.   
+*Nucleic Acids Research (2015)*  
+
+**CONFOLD: Residue-residue contact-guided ab initio protein folding**[[paper]](https://pubmed.ncbi.nlm.nih.gov/25974172/)  
+Badri Adhikari, Debswapna Bhattacharya, Renzhi Cao and Jianlin Cheng.   
+*Proteins (2015)*  
+
+**Combining Evolutionary Information and an Iterative Sampling Strategy for Accurate Protein Structure Prediction.**[[paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004661)  
+Tatjana Braun, Julia Koehler Leman and Oliver F. Lange.    
+*PLOS Computational Biology (2015)*  
+
+**De novo structure prediction of globular proteins aided by sequence variation-derived contacts.**[[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0092197)  
+Tomasz Kosciolek and David T. Jones.    
+*PLOS ONE (2014)*    
+
+**Genomics-aided structure prediction**[[paper]](https://www.pnas.org/doi/10.1073/pnas.1207864109)  
+Joanna I. Sulkowska, Faruck Morcos, Martin Weigt, Terence Hwa and José N. Onuchic.   
+*Proceedings of the National Academy of Sciences of the United States of America (2012)*  
+
+**A probabilistic fragment-based protein structure prediction algorithm**[[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0038799)  
+David Simoncini, Francois Berenger, Rojan Shrestha and Kam Y. J. Zhang.     
+*PLOS ONE (2012)*    
+
+**Protein Structure Determination from Pseudocontact Shifts Using ROSETTA**[[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3638895/)    
+Christophe Schmitz, Robert B. Vernon, Gottfried Otting, David Baker and Thomas Huber.     
+*Journal of Molecular Biology (2012)*  
+
+**Ab initio protein structure assembly using continuous structure fragments and optimized knowledge-based force field**[[paper]](https://pubmed.ncbi.nlm.nih.gov/22411565/)  
+Dong Xu and Yang Zhang.  
+*Proteins (2012)*  
+
+**Protein structure determination from NMR chemical shifts.**[[paper]](https://pubmed.ncbi.nlm.nih.gov/17535901/)    
+Andrea Cavalli, Xavier Salvatella, Christopher M. Dobson and Michele Vendruscolo.    
+*Proceedings of the National Academy of Sciences of the United States of America (2007)*  
+
+**Protein Structure Prediction Using Rosetta**[[paper]](https://pubmed.ncbi.nlm.nih.gov/15063647/)  
+Carol A. Rohl, Charlie E. M. Strauss, Kira M.S. Misura and David Baker.     
+*Methods in Enzymology (2004)*  
+
+**TOUCHSTONE II: a new approach to ab initio protein structure prediction.**[[paper]](https://pubmed.ncbi.nlm.nih.gov/12885659/)  
+Yang Zhang, Andrzej Kolinski and Jeffrey Skolnick.   
+*Biophysical Journal (2003)*  
+
+**Assembly of protein tertiary structures from fragments with similar local sequences using simulated annealing and Bayesian scoring functions**[[paper]](https://pubmed.ncbi.nlm.nih.gov/9149153/)    
+Kim T. Simons, Charles Kooperberg, Enoch S. Huang and David Baker.     
+*Journal of Molecular Biology (1997)*  
+
+
+<a name="deep"></a>
+### Deep learning Methods
+
 
 
 
