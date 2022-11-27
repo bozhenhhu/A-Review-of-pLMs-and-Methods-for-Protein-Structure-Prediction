@@ -364,9 +364,9 @@ Sirui Liu, Jun Zhang, Haotian Chu, Min Wang, Boxin Xue, Ningxi Ni, Jialiang Yu, 
 Milot Mirdita, Sergey Ovchinnikov and Martin Steinegger.     
 *Nature Methods (2022)*  
 
-**FastFold: Reducing AlphaFold Training Time from 11 Days to 67 Hours**[[paper]](https://arxiv.org/abs/2203.00854)[[code]](https://github.com/hpcaitech/FastFold)
-Shenggan Cheng, Ruidong Wu, Zhongming Yu, Binrui Li, Xiwen Zhang, Jian Peng and Yang You.   
-*arxiv (2022).*
+**FastFold: Reducing AlphaFold Training Time from 11 Days to 67 Hours**[[paper]](https://arxiv.org/abs/2203.00854)[[code]](https://github.com/hpcaitech/FastFold)  
+Shenggan Cheng, Ruidong Wu, Zhongming Yu, Binrui Li, Xiwen Zhang, Jian Peng and Yang You.     
+*arxiv (2022).*  
 
 **AlphaFold: Improved protein structure prediction using potentials from deep learning**[[paper]](https://www.nature.com/articles/s41586-019-1923-7)[[code]](https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13)   
 Andrew Senior, Richard Evans, John Jumper, James Kirkpatrick, Laurent Sifre, Tim Green, Chongli Qin, Augustin Žídek, Alexander Nelson, Alex Bridgland, Hugo Penedones, Stig Petersen, Karen Simonyan, Steve Crossan, Pushmeet Kohli, David Jones, David Silver, Koray Kavukcuoglu and Demis Hassabis.    
