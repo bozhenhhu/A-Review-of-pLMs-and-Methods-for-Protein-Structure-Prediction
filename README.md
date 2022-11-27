@@ -11,6 +11,7 @@ We recently released a review about PSP models: past, current, and future, but t
   + [Structural Features Prediction](#Structural)
   + [Traditional Methods](#Traditional)
   + [Deep learning Methods](#deep)
+  + [Single Sequence Sturcture Prediction](#Single)
   
 
 - [Folding tools](#tool)
@@ -347,7 +348,61 @@ Kim T. Simons, Charles Kooperberg, Enoch S. Huang and David Baker.
 <a name="deep"></a>
 ### Deep learning Methods
 
+**HelixFold: An Efficient Implementation of AlphaFold2 using PaddlePaddle**[[paper]](https://arxiv.org/abs/2207.05477)[[code]](https://github.com/PaddlePaddle/PaddleHelix/tree/dev/apps/protein_folding/helixfold)  
+Guoxia Wang, Xiaomin Fang, Zhihua Wu, Yiqun Liu, Yang Xue, Yingfei Xiang, Dianhai Yu, Fan Wang and Yanjun Ma.   
+*arxiv (2022).* 
 
+**Uni-Fold: An Open-Source Platform for Developing Protein Folding Models beyond AlphaFold**[[paper]](https://www.biorxiv.org/content/10.1101/2022.08.04.502811v1)[[code]](https://github.com/dptech-corp/Uni-Fold)  
+Ziyao Li, Xuyang Liu, Weijie Chen, Fan Shen, Hangrui Bi, Guolin Ke and Linfeng Zhang.    
+*bioRxiv (2022).*  
+
+**PSP: Million-level Protein Sequence Dataset for Protein Structure Predictio**[[paper]](https://arxiv.org/abs/2206.12240)[[code]](https://gitee.com/mindspore/mindscience/tree/master/MindSPONGE/applications/MEGAProtein)  
+Sirui Liu, Jun Zhang, Haotian Chu, Min Wang, Boxin Xue, Ningxi Ni, Jialiang Yu, Yuhao Xie, Zhenyu Chen, Mengyun Chen, Yuan Liu, Piya Patra, Fan Xu, Jie Chen, Zidong Wang, Lijiang Yang, Fan Yu, Lei Chen and Yi Qin Gao.     
+*arxiv (2022).*   
+
+**ColabFold - Making protein folding accessible to all**[[paper]](https://www.nature.com/articles/s41592-022-01488-1)[[code]](https://github.com/sokrypton/ColabFold)   
+Milot Mirdita, Sergey Ovchinnikov and Martin Steinegger.     
+*Nature Methods (2022)*  
+
+**FastFold: Reducing AlphaFold Training Time from 11 Days to 67 Hours**[[paper]](https://arxiv.org/abs/2203.00854)[[code]](https://github.com/hpcaitech/FastFold)
+Shenggan Cheng, Ruidong Wu, Zhongming Yu, Binrui Li, Xiwen Zhang, Jian Peng and Yang You.   
+*arxiv (2022).*
+
+**AlphaFold: Improved protein structure prediction using potentials from deep learning**[[paper]](https://www.nature.com/articles/s41586-019-1923-7)[[code]](https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13)   
+Andrew Senior, Richard Evans, John Jumper, James Kirkpatrick, Laurent Sifre, Tim Green, Chongli Qin, Augustin Žídek, Alexander Nelson, Alex Bridgland, Hugo Penedones, Stig Petersen, Karen Simonyan, Steve Crossan, Pushmeet Kohli, David Jones, David Silver, Koray Kavukcuoglu and Demis Hassabis.    
+*Nature (2022).*  
+
+**Highly accurate protein structure prediction with AlphaFold**[[paper]](https://www.nature.com/articles/s41586-021-03819-2)[[code]](https://github.com/deepmind/alphafold)  
+Andrew M. Cowie, John M. Jumper, Richard O. Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russell Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, R. D. Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David L. Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli and Demis Hassabis.   
+*Nature (2021)*  
+
+**Accurate prediction of protein structures and interactions using a three-track neural network**[[paper]](https://www.science.org/doi/10.1126/science.abj8754)[[code]](https://github.com/RosettaCommons/RoseTTAFold)  
+Minkyung Baek, Frank DiMaio, Ivan Anishchenko, Justas Dauparas, Sergey Ovchinnikov, Gyu Rie Lee, Jue Wang, Qian Cong, Lisa N. Kinch, R. Dustin Schaeffer, Claudia Millán, Hahnbeom Park, Carson Adams, Caleb R. Glassman, Andy DeGiovanni, Jose Henrique Pereira, Andria V. Rodrigues, Alberdina A. van Dijk, Ana C. Ebrecht, Diederik J. Opperman, Theo Sagmeister, Christoph Buhlheller, Tea Pavkov-Keller, Manoj K. Rathinaswamy, Udit Dalwadi, Calvin K. Yip, John E. Burke, K. Christopher Garcia, Nick V. Grishin, Paul D. Adams, Randy J. Read and David Baker.   
+*Science (2021)*  
+
+**Distillation of MSA Embeddings to Folded Protein Structures with Graph Transformers**[[paper]](https://www.biorxiv.org/content/10.1101/2021.06.02.446809v1)  
+Albert Costa, Manvitha Ponnapati, Joseph M. Jacobson and Pranam Chatterjee.     
+*bioRxiv (2021)*    
+
+**Study of real-valued distance prediction for protein structure prediction with deep learning**[[paper]](https://academic.oup.com/bioinformatics/article/37/19/3197/6271411?login=false)  
+Jin Li and Jinbo Xu.   
+*Bioinformatics (2021)*  
+
+**Improved protein structure prediction using predicted inter-residue orientations**[[paper]](https://www.pnas.org/doi/10.1073/pnas.1914677117)[[code]](https://github.com/gjoni/trRosetta)    
+Jianyi Yang, Ivan Anishchenko, Hahnbeom Park, Zhenling Peng, Sergey Ovchinnikov and David Baker.      
+*Proceedings of the National Academy of Sciences of the United States of America (2019)*    
+
+**DESTINI: A deep-learning approach to contact-driven protein structure prediction.**[[paper]](https://www.nature.com/articles/s41598-019-40314-1)[[code]](http://pwp.gatech.edu/cssb/destini)     
+Mu Gao, Hongyi Zhou and Jeffrey Skolnick.   
+*Scientific Reports (2019)*  
+
+**End-to-End Differentiable Learning of Protein Structure**[[paper]](https://www.sciencedirect.com/science/article/pii/S2405471219300766)[[code]](https://github.com/aqlaboratory/rgn)    
+Mohammed AlQuraishi.   
+*Cell systems (2018)*  
+
+
+<a name="Single"></a>
+### Single Sequence Sturcture Prediction
 
 
 <a name="tool"></a>
