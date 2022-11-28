@@ -3,6 +3,7 @@ We recently released a review about PSP models, named "Protein Language Models a
 
 ## Notes  
 - Structural features include 1D features (SS, SA, torsion angles, contact density, etc.) and 2D features (contact map and distance map)
+- Others in this contents include work of protein structure generation, structure refinement, etc.
  
 ## Contents
 - [Reviews](#reviews)
@@ -14,6 +15,9 @@ We recently released a review about PSP models, named "Protein Language Models a
   + [Single Sequence Sturcture Prediction](#Single)
   + [Antibody](#antibody)
   + [Complex](#complex)
+- Conformation(#Conformation)
+- RNA(#RNA)
+- Others(#Others)
   
 
 - [Folding tools](#tool)
@@ -455,6 +459,16 @@ Bo Chen, Ziwei Xie, Jinbo Xu, Jiezhong Qiu, Zhaofeng Ye and Jie Tang.
 **Protein complex prediction with AlphaFold-Multimer**[[paper]](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2)[[code]](https://github.com/deepmind/alphafold)  
 Andrew M. Cowie, Richard Evans, Michael J. O'Neill, Alexander Pritzel, Natasha Antropova, Andrew W. Senior, Tim Green, Augustin Žídek, Russell Bates, Sam Blackwell, Jason Yim, Olaf Ronneberger, Sebastian Bodenstein, Michal Zielinski, Alex Bridgland, Anna Potapenko, Andrew Cowie, Kathryn Tunyasuvunakool, R. D. Jain, Ellen Clancy, Pushmeet Kohli, John M. Jumper and Demis Hassabis.   
 *bioRxiv (2021)* 
+
+<a name="Conformation"></a>
+## Conformation
+
+
+<a name="RNA"></a>
+## RNA
+
+<a name="Others"></a>
+## Others
 
 
 <a name="tool"></a>
