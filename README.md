@@ -465,13 +465,25 @@ Andrew M. Cowie, Richard Evans, Michael J. O'Neill, Alexander Pritzel, Natasha A
 
 <a name="Conformation"></a>
 ## Conformation
+**SE(3) Equivalent Graph Attention Network as an Energy-Based Model for Protein Side Chain Conformation**[[paper]](https://www.biorxiv.org/content/10.1101/2022.09.05.506704v1)  
+Deqin Liu, Sheng Chen, Shuangjia Zheng, Sen Zhang and Yuedong Yang.   
+*bioRxiv (2022).*  
+
+**SPEACH_AF: Sampling protein ensembles and conformational heterogeneity with Alphafold2**[[paper]](https://readpaper.com/paper/4292636432)[[code]](https://github.com/RSvan/SPEACH_AF)    
+Richard A. Stein and Hassane S. Mchaourab.   
+*PLOS Computational Biology (2022)*  
 
 **Energy-based models for atomic-resolution protein conformation**[[paper]](https://arxiv.org/abs/2004.13167)[[code]](https://github.com/facebookresearch/protein-ebm)     
 Yilun Du, Joshua Meier, Jerry Ma, Rob Fergus and Alexander Rives.   
 *International Conference on Learning Representations (2020)*  
 
+
 <a name="RNA"></a>
 ## RNA
+**E2Efold-3D: End-to-End Deep Learning Method for accurate de novo RNA 3D Structure Prediction**[[paper]](https://arxiv.org/abs/2207.01586)[[code]](https://github.com/RFOLD/RhoFold)  
+Tao Shen, Zhihang Hu, Zhangzhi Peng, Jiayang Chen, Peng Xiong, Liang Hong, Liangzhen Zheng, Yixuan Wang, Irwin King, Sheng Wang, Siqi Sun and Yu Li.    
+*arxiv (2022).*  
+
 
 <a name="Others"></a>
 ## Others
@@ -482,6 +494,20 @@ Kevin E. Wu, Kevin K. Yang, Rianne van den Berg, James Y. Zou, Alex X. Lu and Av
 **Generative Modeling for Protein Structures**[[paper]](https://proceedings.neurips.cc/paper/2018/hash/afa299a4d1d8c52e75dd8a24c3ce534f-Abstract.html)    
 Namrata Anand and Po-Ssu Huang.     
 *NIPS (2018)*  
+
+
+**Atomic protein structure refinement using all-atom graph representations and SE(3)-equivariant graph neural networks**[[paper]](https://www.biorxiv.org/content/10.1101/2022.05.06.490934v1)   
+Tianqi Wu and Chen Chen.     
+*bioRxiv (2022).*   
+
+**Fast and effective protein model refinement using deep graph neural networks**[[paper]](https://www.nature.com/articles/s43588-021-00098-9)[[code]](https://codeocean.com/capsule/5769140/tree/v1)  
+Xiaoyang Jing and Jinbo Xu.   
+*Nature Computational Science (2021)*  
+
+**Improved protein structure refinement guided by deep learning based accuracy estimation**[[paper]](https://www.nature.com/articles/s41467-021-21511-x)[[code]](https://github.com/hiranumn/DeepAccNet)   
+Naozumi Hiranuma, Hahnbeom Park, Minkyung Baek, Ivan Anishchanka, Justas Dauparas and David Baker.     
+*Nature Communications (2020)*    
+
 
 
 <a name="tool"></a>
