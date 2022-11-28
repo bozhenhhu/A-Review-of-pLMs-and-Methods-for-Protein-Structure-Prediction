@@ -58,7 +58,7 @@ IgFold[[paper]](https://www.biorxiv.org/content/10.1101/2022.04.20.488972v2)[[co
 ### RNA  
 RhoFold[[paper]](https://arxiv.org/abs/2207.01586)[[code]](https://github.com/RFOLD/RhoFold)   
 
-### Others  
+### More  
 EMBER3D[[paepr]](https://www.biorxiv.org/content/early/2022/11/16/2022.11.14.516473)[[code]](https://github.com/kWeissenow/EMBER3D)  
 
 AlphaFold-Multimer[[paper]](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2)[[code]](https://github.com/deepmind/alphafold)    
