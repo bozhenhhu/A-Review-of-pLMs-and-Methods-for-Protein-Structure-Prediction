@@ -50,12 +50,12 @@ OmegaFold[[paper]](https://www.biorxiv.org/content/10.1101/2022.07.21.500999v1)[
 
 RGN2[[paper]](https://www.nature.com/articles/s41587-022-01432-w)[[code]](https://github.com/aqlaboratory/rgn2)  
 
-### Antibody   
+### antibody   
 EquiFold[[paper]](https://www.biorxiv.org/content/10.1101/2022.10.07.511322v1)  
 
 IgFold[[paper]](https://www.biorxiv.org/content/10.1101/2022.04.20.488972v2)[[code]](https://github.com/Graylab/IgFold)  
 
-### RNA  
+### rna  
 RhoFold[[paper]](https://arxiv.org/abs/2207.01586)[[code]](https://github.com/RFOLD/RhoFold)   
 
 ### More  
