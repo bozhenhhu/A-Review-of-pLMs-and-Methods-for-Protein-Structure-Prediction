@@ -1,5 +1,5 @@
 # List of papers about protein structure prediction (PSP) and proterin representation learning methods
-We recently released a review about PSP models: past, current, and future, but the field changes fastly and there are so many new papers that needed to be recorded and categorized. Inspired by the previous work ([Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins)), we build this repository to list related papers of pLMs and PSP methods.   
+We recently released a review about PSP models, named "Protein Language Models and Structure Prediction: Connection and Progression", which aims to build the connections between pLMs and PSP, and recover the PSP methods: past, present, and future. However, the field changes fastly and there are so many new papers that needed to be recorded and categorized. Inspired by the previous work ([Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins)), we build this repository to list related papers of pLMs and PSP methods.   
 
 ## Notes  
 - Structural features include 1D features (SS, SA, torsion angles, contact density, etc.) and 2D features (contact map and distance map)
@@ -436,6 +436,10 @@ Jeffrey A. Ruffolo and Jeffrey J. Gray.
 
 <a name="complex"></a>
 ### Complex
+**Accurate prediction of nucleic acid and protein-nucleic acid complexes using RoseTTAFoldNA**[[paper]](https://www.biorxiv.org/content/10.1101/2022.09.09.507333v1)[[code]](https://github.com/uw-ipd/RoseTTAFold2NA)  
+Minkyung Baek, Ryan Mchugh, Ivan Anishchenko, David Baker and Frank Dimaio.     
+*bioRxiv (2022).*  
+
 **Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search.**[[paper]](https://www.nature.com/articles/s41467-022-33729-4)  
 Arne Elofsson, Patrick Bryant, Gabriele Pozzati, Wensi Zhu, Aditi Shenoy and Petras Kundrotas.   
 *Nature Communications  (2022)*    
@@ -446,7 +450,7 @@ Patrick Bryant, Gabriele Pozzati and Arne Elofsson.
 
 **Improve the Protein Complex Prediction with Protein Language Models**[[paper]](https://www.biorxiv.org/content/10.1101/2022.09.15.508065v1)  
 Bo Chen, Ziwei Xie, Jinbo Xu, Jiezhong Qiu, Zhaofeng Ye and Jie Tang.   
-*bioxiv (2022).*  
+*bioRxiv (2022).*  
 
 **Protein complex prediction with AlphaFold-Multimer**[[paper]](https://www.biorxiv.org/content/10.1101/2021.10.04.463034v2)[[code]](https://github.com/deepmind/alphafold)  
 Andrew M. Cowie, Richard Evans, Michael J. O'Neill, Alexander Pritzel, Natasha Antropova, Andrew W. Senior, Tim Green, Augustin Žídek, Russell Bates, Sam Blackwell, Jason Yim, Olaf Ronneberger, Sebastian Bodenstein, Michal Zielinski, Alex Bridgland, Anna Potapenko, Andrew Cowie, Kathryn Tunyasuvunakool, R. D. Jain, Ellen Clancy, Pushmeet Kohli, John M. Jumper and Demis Hassabis.   
