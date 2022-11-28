@@ -19,7 +19,6 @@ We recently released a review about PSP models, named "Protein Language Models a
 - [RNA](#RNA)
 - [Others](#Others)
   
-
 - [Folding tools](#tool)
 
 
@@ -378,6 +377,10 @@ Shenggan Cheng, Ruidong Wu, Zhongming Yu, Binrui Li, Xiwen Zhang, Jian Peng and 
 Andrew Senior, Richard Evans, John Jumper, James Kirkpatrick, Laurent Sifre, Tim Green, Chongli Qin, Augustin Žídek, Alexander Nelson, Alex Bridgland, Hugo Penedones, Stig Petersen, Karen Simonyan, Steve Crossan, Pushmeet Kohli, David Jones, David Silver, Koray Kavukcuoglu and Demis Hassabis.    
 *Nature (2022).*  
 
+**Few-Shot Learning of Accurate Folding Landscape for Protein Structure Prediction**[[paper]](https://arxiv.org/abs/2208.09652)    
+Jun Zhang, Sirui Liu, Mengyun Chen, Haotian Chu, Min Wang, Zidong Wang, Jialiang Yu, Ningxi Ni, Fan Yu, Diqing Chen, Yi Isaac Yang, Boxin Xue, Lijiang Yang, Yuan Liu and Yi Qin Gao.    
+*arxiv (2022).*    
+
 **Highly accurate protein structure prediction with AlphaFold**[[paper]](https://www.nature.com/articles/s41586-021-03819-2)[[code]](https://github.com/deepmind/alphafold)  
 Andrew M. Cowie, John M. Jumper, Richard O. Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russell Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, R. D. Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David L. Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli and Demis Hassabis.   
 *Nature (2021)*  
@@ -463,12 +466,22 @@ Andrew M. Cowie, Richard Evans, Michael J. O'Neill, Alexander Pritzel, Natasha A
 <a name="Conformation"></a>
 ## Conformation
 
+**Energy-based models for atomic-resolution protein conformation**[[paper]](https://arxiv.org/abs/2004.13167)[[code]](https://github.com/facebookresearch/protein-ebm)     
+Yilun Du, Joshua Meier, Jerry Ma, Rob Fergus and Alexander Rives.   
+*International Conference on Learning Representations (2020)*  
 
 <a name="RNA"></a>
 ## RNA
 
 <a name="Others"></a>
 ## Others
+**Protein structure generation via folding diffusion**[[paper]](https://arxiv.org/abs/2209.15611)  
+Kevin E. Wu, Kevin K. Yang, Rianne van den Berg, James Y. Zou, Alex X. Lu and Ava P. Amini.  
+*arxiv (2022).*  
+
+**Generative Modeling for Protein Structures**[[paper]](https://proceedings.neurips.cc/paper/2018/hash/afa299a4d1d8c52e75dd8a24c3ce534f-Abstract.html)    
+Namrata Anand and Po-Ssu Huang.     
+*NIPS (2018)*  
 
 
 <a name="tool"></a>
