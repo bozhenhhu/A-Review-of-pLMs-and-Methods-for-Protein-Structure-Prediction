@@ -48,7 +48,9 @@ HelixFold-single[[paper]](https://arxiv.org/abs/2207.13921)[[code]](https://gith
 
 OmegaFold[[paper]](https://www.biorxiv.org/content/10.1101/2022.07.21.500999v1)[[code]](https://github.com/HeliXonProtein/OmegaFold)  
 
-RGN2[[paper]](https://www.nature.com/articles/s41587-022-01432-w)[[code]](https://github.com/aqlaboratory/rgn2)  
+RGN2[[paper]](https://www.nature.com/articles/s41587-022-01432-w)[[code]](https://github.com/aqlaboratory/rgn2)    
+
+TRFold
 
 ### antibody   
 EquiFold[[paper]](https://www.biorxiv.org/content/10.1101/2022.10.07.511322v1)  
@@ -535,6 +537,10 @@ Tao Shen, Zhihang Hu, Zhangzhi Peng, Jiayang Chen, Peng Xiong, Liang Hong, Liang
 
 <a name="Others"></a>
 ## Others
+**Broadly applicable and accurate protein design by integrating structure prediction networks and diffusion generative models**[[paper]](https://www.bakerlab.org/2022/11/30/diffusion-model-for-protein-design/)  
+Joseph L  
+*bioRxiv, 2022.*
+
 **Protein structure generation via folding diffusion**[[paper]](https://arxiv.org/abs/2209.15611)  
 Kevin E. Wu, Kevin K. Yang, Rianne van den Berg, James Y. Zou, Alex X. Lu and Ava P. Amini.  
 *arxiv (2022).*  
