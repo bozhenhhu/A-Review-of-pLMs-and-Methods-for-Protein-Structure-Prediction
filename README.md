@@ -27,7 +27,7 @@ AlphaFold2[[paper]](https://www.nature.com/articles/s41586-021-03819-2)[[code]](
 
 RoseTTAFold[[paper]](https://www.science.org/doi/10.1126/science.abj8754)[[paper]](https://www.science.org/doi/10.1126/science.abj8754)[[code]](https://github.com/RosettaCommons/RoseTTAFold)  
 
-OPUS-X[[code](https://github.com/thuxugang/opus_x)  
+OPUS-X[[code]](https://github.com/thuxugang/opus_x)  
 
 OPUSFold[[code]](https://github.com/thuxugang/opus_fold)    
 
