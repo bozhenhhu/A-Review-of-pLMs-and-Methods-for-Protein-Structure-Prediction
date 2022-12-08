@@ -22,10 +22,14 @@ We recently released a review about PSP models, named [Protein Language Models a
  
 <a name="tool"></a>
 ## Folding tools
-### MSA-based PSP  
+ 
 AlphaFold2[[paper]](https://www.nature.com/articles/s41586-021-03819-2)[[code]](https://github.com/deepmind/alphafold)    
 
-RoseTTAFold[[paper]](https://www.science.org/doi/10.1126/science.abj8754)[[paper]](https://www.science.org/doi/10.1126/science.abj8754)[[code]](https://github.com/RosettaCommons/RoseTTAFold)    
+RoseTTAFold[[paper]](https://www.science.org/doi/10.1126/science.abj8754)[[paper]](https://www.science.org/doi/10.1126/science.abj8754)[[code]](https://github.com/RosettaCommons/RoseTTAFold)  
+
+OPUS-X[[code](https://github.com/thuxugang/opus_x)  
+
+OPUSFold[[code]](https://github.com/thuxugang/opus_fold)    
 
 ### Modification of AF2  
 ColabFold[[paper]](https://www.nature.com/articles/s41592-022-01488-1)[[code]](https://github.com/sokrypton/ColabFold)    
@@ -191,6 +195,10 @@ Buzhong Zhang, Jinyan Li, Lijun Quan and Qiang Lyu.
 **SPOT-1D-Single: Improving the Single-Sequence-Based Prediction of Protein Secondary Structure, Backbone Angles, Solvent Accessibility and Half-Sphere Exposures using a Large Training Set and Ensembled Deep Learning.**[[paper]](https://academic.oup.com/bioinformatics/article/37/20/3464/6275257?login=false)[[server]](https://sparks-lab.org/server/spot-1d-single/)  
 Jaspreet Singh, Thomas Litfin, Kuldip K. Paliwal, Jaswinder Singh, Anil Kumar Hanumanthappa and Yaoqi Zhou.     
 *Bioinformatics (2021)*    
+
+**OPUS-TASS: A Protein Backbone Torsion Angles and Secondary Structure Predictor Based on Ensemble Neural Networks**[[paper]](https://academic.oup.com/bioinformatics/article/36/20/5021/5873143)[[github]](https://github.com/thuxugang/opus_tass)  
+Gang Xu, Qinghua Wang and Jianpeng Ma.   
+*Bioinformatics(2020)*
 
 **Deep learning-based prediction of protein structure using learned representations of multiple sequence alignments**[[paper]](https://www.biorxiv.org/content/10.1101/2020.11.27.401232v1)  
 Shaun M. Kandathil, Joe G Greener, Andy M. Lau and David T. Jones.   
@@ -430,6 +438,10 @@ Andrew Senior, Richard Evans, John Jumper, James Kirkpatrick, Laurent Sifre, Tim
 **Few-Shot Learning of Accurate Folding Landscape for Protein Structure Prediction**[[paper]](https://arxiv.org/abs/2208.09652)    
 Jun Zhang, Sirui Liu, Mengyun Chen, Haotian Chu, Min Wang, Zidong Wang, Jialiang Yu, Ningxi Ni, Fan Yu, Diqing Chen, Yi Isaac Yang, Boxin Xue, Lijiang Yang, Yuan Liu and Yi Qin Gao.    
 *arxiv (2022).*    
+
+**OPUS-Rota4: A Gradient-Based Protein Side-Chain Modeling Framework Assisted by Deep Learning-Based Predictors**[[paper]](https://academic.oup.com/bib/article/23/1/bbab529/6461160?login=false)[[github]](https://github.com/thuxugang/opus_rota4)  
+Gang Xu, Qinghua Wang and Jianpeng Ma.   
+*bioRxiv(2021)*
 
 **Highly accurate protein structure prediction with AlphaFold**[[paper]](https://www.nature.com/articles/s41586-021-03819-2)[[code]](https://github.com/deepmind/alphafold)  
 Andrew M. Cowie, John M. Jumper, Richard O. Evans, Alexander Pritzel, Tim Green, Michael Figurnov, Olaf Ronneberger, Kathryn Tunyasuvunakool, Russell Bates, Augustin Žídek, Anna Potapenko, Alex Bridgland, Clemens Meyer, Simon A. A. Kohl, Andrew J. Ballard, Andrew Cowie, Bernardino Romera-Paredes, Stanislav Nikolov, R. D. Jain, Jonas Adler, Trevor Back, Stig Petersen, David Reiman, Ellen Clancy, Michal Zielinski, Martin Steinegger, Michalina Pacholska, Tamas Berghammer, Sebastian Bodenstein, David L. Silver, Oriol Vinyals, Andrew W. Senior, Koray Kavukcuoglu, Pushmeet Kohli and Demis Hassabis.   
