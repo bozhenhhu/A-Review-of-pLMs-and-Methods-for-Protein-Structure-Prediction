@@ -68,13 +68,21 @@ FUpred[[server]]( https://zhanggroup.org/FUpred)
 ThreaDom[[server]](https://zhanggroup.org/ThreaDom)
 DEMO[[server]]([DEM](https://zhanggroup.org/DEMO))
 
-### antibody   
+### Antibody   
 EquiFold[[paper]](https://www.biorxiv.org/content/10.1101/2022.10.07.511322v1)  
 
 IgFold[[paper]](https://www.biorxiv.org/content/10.1101/2022.04.20.488972v2)[[code]](https://github.com/Graylab/IgFold)  
 
-### rna  
+### RNA  
 RhoFold[[paper]](https://arxiv.org/abs/2207.01586)[[code]](https://github.com/RFOLD/RhoFold)   
+
+### Geometry Potential Prediction
+DeepPotential[[server]](https://zhanggroup.org/DeepPotential)
+
+TripletRes[[server]](https://zhanggroup.org/TripletRes)
+
+ResPRE[[server]](https://zhanggroup.org/ResPRE)
+
 
 ### More  
 EMBER3D[[paepr]](https://www.biorxiv.org/content/early/2022/11/16/2022.11.14.516473)[[code]](https://github.com/kWeissenow/EMBER3D)  
@@ -87,11 +95,6 @@ xTrimoABFold[[paper]](https://openreview.net/forum?id=F5Cj26wfiu)
 
 xTrimoDock[[paper]](https://openreview.net/forum?id=KL6i1IdwQ6z) 
 
-DeepPotential[[server]](https://zhanggroup.org/DeepPotential)
-
-TripletRes[[server]](https://zhanggroup.org/TripletRes)
-
-ResPRE[[server]](https://zhanggroup.org/ResPRE)
 
 <a name="reviews"></a>
 ## Reviews
