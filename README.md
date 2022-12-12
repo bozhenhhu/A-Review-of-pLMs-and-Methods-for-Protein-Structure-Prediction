@@ -22,7 +22,14 @@ We recently released a review about PSP models, named [Protein Language Models a
  
 <a name="tool"></a>
 ## Folding tools
-I-TASSER[[code]](https://zhanggroup.org/I-TASSER)
+I-TASSER[[server]](https://zhanggroup.org/I-TASSER)
+
+D-I-TASSER[[server]]( https://zhanggroup.org/D-I-TASSER)
+*rank first in CASP15*
+
+I-TASSER-MTD[[server]](https://zhanggroup.org/I-TASSER-MTD)
+
+QUARK[[server]](https://zhanggroup.org/QUARK)
  
 AlphaFold2[[paper]](https://www.nature.com/articles/s41586-021-03819-2)[[code]](https://github.com/deepmind/alphafold)    
 
@@ -55,7 +62,11 @@ OmegaFold[[paper]](https://www.biorxiv.org/content/10.1101/2022.07.21.500999v1)[
 
 RGN2[[paper]](https://www.nature.com/articles/s41587-022-01432-w)[[code]](https://github.com/aqlaboratory/rgn2)    
 
-TRFold
+
+### Multi-domain
+FUpred[[server]]( https://zhanggroup.org/FUpred)
+ThreaDom[[server]](https://zhanggroup.org/ThreaDom)
+DEMO[[server]]([DEM](https://zhanggroup.org/DEMO))
 
 ### antibody   
 EquiFold[[paper]](https://www.biorxiv.org/content/10.1101/2022.10.07.511322v1)  
@@ -74,8 +85,13 @@ xTrimoMultimer[[code]](https://github.com/biomap-research/xTrimoMultimer)
 
 xTrimoABFold[[paper]](https://openreview.net/forum?id=F5Cj26wfiu)  
 
-xTrimoDock[[paper]](https://openreview.net/forum?id=KL6i1IdwQ6z)  
+xTrimoDock[[paper]](https://openreview.net/forum?id=KL6i1IdwQ6z) 
 
+DeepPotential[[server]](https://zhanggroup.org/DeepPotential)
+
+TripletRes[[server]](https://zhanggroup.org/TripletRes)
+
+ResPRE[[server]](https://zhanggroup.org/ResPRE)
 
 <a name="reviews"></a>
 ## Reviews
