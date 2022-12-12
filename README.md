@@ -22,6 +22,7 @@ We recently released a review about PSP models, named [Protein Language Models a
  
 <a name="tool"></a>
 ## Folding tools
+I-TASSER[[code]](https://zhanggroup.org/I-TASSER)
  
 AlphaFold2[[paper]](https://www.nature.com/articles/s41586-021-03819-2)[[code]](https://github.com/deepmind/alphafold)    
 
@@ -29,7 +30,7 @@ RoseTTAFold[[paper]](https://www.science.org/doi/10.1126/science.abj8754)[[paper
 
 OPUS-X[[code]](https://github.com/thuxugang/opus_x)  
 
-OPUSFold[[code]](https://github.com/thuxugang/opus_fold)    
+OPUSFold[[code]](https://github.com/thuxugang/opus_fold)  
 
 ### Modification of AF2  
 ColabFold[[paper]](https://www.nature.com/articles/s41592-022-01488-1)[[code]](https://github.com/sokrypton/ColabFold)    
