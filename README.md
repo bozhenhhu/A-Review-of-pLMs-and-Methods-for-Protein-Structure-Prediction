@@ -33,7 +33,7 @@ QUARK[[server]](https://zhanggroup.org/QUARK)
  
 AlphaFold2[[paper]](https://www.nature.com/articles/s41586-021-03819-2)[[code]](https://github.com/deepmind/alphafold)    
 
-RoseTTAFold[[paper]](https://www.science.org/doi/10.1126/science.abj8754)[[paper]](https://www.science.org/doi/10.1126/science.abj8754)[[code]](https://github.com/RosettaCommons/RoseTTAFold)  
+RoseTTAFold[[paper]](https://www.science.org/doi/10.1126/science.abj8754)[[code]](https://github.com/RosettaCommons/RoseTTAFold)  
 
 OPUS-X[[code]](https://github.com/thuxugang/opus_x)  
 
@@ -63,10 +63,10 @@ OmegaFold[[paper]](https://www.biorxiv.org/content/10.1101/2022.07.21.500999v1)[
 RGN2[[paper]](https://www.nature.com/articles/s41587-022-01432-w)[[code]](https://github.com/aqlaboratory/rgn2)    
 
 
-### Multi-domain
-FUpred[[server]]( https://zhanggroup.org/FUpred)
-ThreaDom[[server]](https://zhanggroup.org/ThreaDom)
-DEMO[[server]]([DEM](https://zhanggroup.org/DEMO))
+### Multi-domain  
+FUpred[[server]]( https://zhanggroup.org/FUpred)  
+ThreaDom[[server]](https://zhanggroup.org/ThreaDom)  
+DEMO[[server]](https://zhanggroup.org/DEMO)   
 
 ### Antibody   
 EquiFold[[paper]](https://www.biorxiv.org/content/10.1101/2022.10.07.511322v1)  
