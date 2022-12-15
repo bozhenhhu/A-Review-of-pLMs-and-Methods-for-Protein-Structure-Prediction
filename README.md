@@ -1,4 +1,4 @@
-# awesome protein structure prediction (PSP) methods
+# Awesome protein structure prediction (PSP) methods
 We recently released a review about PSP models, named [Protein Language Models and Structure Prediction: Connection and Progression](https://arxiv.org/abs/2211.16742), which aims to build the connections between pLMs and PSP, and recover the PSP methods: past, present, and future. However, the field changes fastly and there are so many new papers that needed to be recorded and categorized. Inspired by the previous work ([Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins)), we build this repository to list related papers about pLMs and PSP methods.   
 
 ## Notes  
