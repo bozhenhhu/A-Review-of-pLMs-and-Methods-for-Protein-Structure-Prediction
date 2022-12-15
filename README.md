@@ -1,5 +1,5 @@
-# List of papers about protein structure prediction (PSP) and proterin representation learning methods
-We recently released a review about PSP models, named [Protein Language Models and Structure Prediction: Connection and Progression](https://arxiv.org/abs/2211.16742), which aims to build the connections between pLMs and PSP, and recover the PSP methods: past, present, and future. However, the field changes fastly and there are so many new papers that needed to be recorded and categorized. Inspired by the previous work ([Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins)), we build this repository to list related papers of pLMs and PSP methods.   
+# awesome protein structure prediction (PSP) methods
+We recently released a review about PSP models, named [Protein Language Models and Structure Prediction: Connection and Progression](https://arxiv.org/abs/2211.16742), which aims to build the connections between pLMs and PSP, and recover the PSP methods: past, present, and future. However, the field changes fastly and there are so many new papers that needed to be recorded and categorized. Inspired by the previous work ([Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins)), we build this repository to list related papers about pLMs and PSP methods.   
 
 ## Notes  
 - Structural features include 1D features (SS, SA, torsion angles, contact density, etc.) and 2D features (contact map and distance map)
