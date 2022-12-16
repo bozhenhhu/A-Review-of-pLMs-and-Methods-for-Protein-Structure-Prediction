@@ -569,6 +569,10 @@ Tao Shen, Zhihang Hu, Zhangzhi Peng, Jiayang Chen, Peng Xiong, Liang Hong, Liang
 
 <a name="Others"></a>
 ## Others
+**After AlphaFold: protein-folding contest seeks next big breakthrough**[[paper]](https://www.nature.com/articles/d41586-022-04438-1)  
+Ewen Callaway
+*nature news article 2022*
+
 **Broadly applicable and accurate protein design by integrating structure prediction networks and diffusion generative models**[[paper]](https://www.bakerlab.org/2022/11/30/diffusion-model-for-protein-design/)  
 Joseph L  
 *bioRxiv, 2022.*
